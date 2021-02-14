@@ -8,7 +8,7 @@ kubeVersion: ">= 1.11.0"
 keywords:
   - kubernetes-external-secrets
   - secrets
-home: https://github.com/external-secrets/external-secrets
+home: https://github.com/shivakumar12/external-secrets
 maintainers:
   - name: mcavoyk
     email: kellinmcavoy@gmail.com
